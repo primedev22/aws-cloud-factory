@@ -1,5 +1,5 @@
 {
-    "name": "cloud-app-factory",
+    "name": "aws-cloud-factory",
     "private": true,
     "workspaces": [
         "app",

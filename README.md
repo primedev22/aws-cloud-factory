@@ -1,6 +1,6 @@
-# cloud-app-factory
+# aws-cloud-factory
 
-_Cloud App Factory_: deploy Cloud infrastructure at the click of a web app button with AWS CDK—a tutorial.
+_AWS CLOUD Factory_: deploy Cloud infrastructure at the click of a web app button with AWS CDK—a tutorial.
 
 ![generate-template-success](media/generate-template-success.png#75p)
 
@@ -47,13 +47,13 @@ Start by cloning this repository.
 Using HTTPS:
 
 ```bash
-git clone https://github.com/mstykow/cloud-app-factory.git
+git clone https://github.com/primedev22/aws-cloud-factory.git
 ```
 
 Using SSH:
 
 ```bash
-git clone git@github.com:mstykow/cloud-app-factory.git
+git clone git@github.com:primedev22/aws-cloud-factory.git
 ```
 
 Having done so, navigate to the root directory and execute the following command to install required dependencies and build all packages we need to deploy in the coming steps.
